@@ -1,5 +1,5 @@
-# Spigot Gradle Kotlin Template
-This is a template for creating a [Spigot Plugin](https://www.spigotmc.org/) with [Gradle](https://gradle.org) and the [Kotlin](https://kotlinlang.org) programming language.
+# Spigot Gradle Java Template
+This is a template for creating a [Spigot Plugin](https://www.spigotmc.org/) with [Gradle](https://gradle.org).
 
 ## How to use
 1. Click **Use this template**.
