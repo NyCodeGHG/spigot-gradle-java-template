@@ -10,7 +10,6 @@ group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
-    jcenter()
     // PaperMC Repository
     papermc()
 }
